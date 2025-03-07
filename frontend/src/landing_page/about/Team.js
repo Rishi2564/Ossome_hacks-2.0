@@ -11,12 +11,12 @@ function Team() {
                 <div className='col-6 p-3 text-center'>
                     <img src='media/images/my_image.png' style={{borderRadius:"100%", width:"50%"}} />
 
-                    <h4 className='mt-5'>Kamlesh Prajapati</h4>
+                    <h4 className='mt-5'>Rishabh Pradhan</h4>
                 </div>
 
                 <div className='col-6 p-3'>
                     <p>
-                        I am a 2nd year student at IIT Patna pursuing B.Sc. in Computer Science and Data Analytics. I had an interest in programming and have gained knowledge in Java with Data Structures and Algorithms, as well as hands-on practice in the MERN stack for web development, experience in Machine Learning, and practical knowledge in data analysis.
+                        I am a 2nd year student at SRM ktr pursuing BTECH CSE CORE. I had an interest in programming and have gained knowledge in Java with Data Structures and Algorithms, as well as hands-on practice in the MERN stack for web development.
                     </p>
 
                     <p>
